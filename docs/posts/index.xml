@@ -8,12 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://tadeobh.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mis expectativas</title>
+      <title>La cultura de un Desarrollador de Software</title>
       <link>https://tadeobh.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
       
       <guid>https://tadeobh.github.io/my_launchx_blog/posts/intro/</guid>
-      <description>Usa este post para anotar tus expectativas de la misión.</description>
+      <description>Para mí, un desarrollador de software debe regirse por al menos los siguientes valores:
+  Honestidad:
+ La honestidad es siempre importante, independientemente de la labor que se haga. Ser honestos nos permite reconocer nuestros errores y aplaudir nuestros aciertos.    Empatía:
+ Hay que ser empaticos con nuestros compañeros de trabajo y nuestros clientes. Debemos entender sus necesidades y cual es su posición en el proceso de desarrollo del proyecto.</description>
     </item>
     
   </channel>
