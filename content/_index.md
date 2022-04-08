@@ -9,10 +9,10 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 Mis expectativas para este proyecto son:
 
-- Reforzar mis conocimientos de Git y GitHub
-- Aprender sobre FrontEnd, sobre todo frameworks como Vue.js
+- Reforzar mis conocimientos de Git y GitHub.
+- Aprender sobre FrontEnd, sobre todo frameworks como Vue.js.
 - Aprender sobre BackEnd, específicamente en temas como: REST APIs, Bases de Datos, Deplyoment, etc.
-- Comenzar mi portafolio como desarrollador
+- Comenzar mi portafolio como desarrollador.
 - Finalmente, me encantaría poder conceptualizar, diseñar, e implementar mi primer sitio web/webapp al final de este curso.
 
 🚀
