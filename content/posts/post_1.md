@@ -1,5 +1,5 @@
 ---
-title: "Título de tu blog post"
+title: "Mi experiencia en LaunchX"
 date: 2022-04-07
 description: 'Mi experiencia en LaunchX'
 ---
@@ -16,4 +16,4 @@ Ahora en la misión de BackEnd no espero menos. Espero una misión con muchos re
 
 ¡Ya veremos de lo que somos capaces al terminar esta tercera y última misión!
 
-- - Tadeo Bustamante
+- Tadeo Bustamante
