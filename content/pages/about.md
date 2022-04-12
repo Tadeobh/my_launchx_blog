@@ -9,13 +9,9 @@ menu:
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Mi llamo Tadeo Bustamante
+> Soy Ingeniero Mecatrónico del Instituto Tecnológico de Hermosillo
+> Actualmente trabajo como Project Coordinator para una empresa de telecomunicaciones, y mi objetivo es adentrarme en el mundo del desarrollo de software.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+**Mis hobbies** Me encanta el fútbol, los videojuegos, la tecnología, y sobre todo aprender cosas nuevas.
 
